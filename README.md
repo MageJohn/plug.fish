@@ -1,4 +1,4 @@
-# 🐟🔌 plug.fish
+# 🔌🐟 plug.fish
 
 Git-based [Fish](https://fishshell.com/) plugin manager.
 
